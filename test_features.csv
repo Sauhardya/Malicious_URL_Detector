@@ -1,0 +1,2 @@
+token_count,rank_host,rank_country,ASNno,sec_sen_word_cnt,avg_token_length,No_of_dots,Length_of_url,avg_path_token,IPaddress_presence,Length_of_host,safebrowsing,URL,host,avg_domain_token_length,path_token_count,path,largest_domain,domain_token_count,largest_path,exe_in_url,largest_token
+4,1,1,15169,0,4.0,2,21,0,0,14,-1,http://www.google.com,www.google.com,4.0,0,,6,3,0,0,6
